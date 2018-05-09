@@ -18,6 +18,13 @@ ul{
   margin:0;
   padding:20px;
 }
+p{
+  width:800px;
+}
+img {
+  width:400px;
+  height:400px;
+}
 #grid{
   display: grid;
   grid-template-columns: 150px 1fr;
